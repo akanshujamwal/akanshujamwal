@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@akanshu05](https://medium.com/@akanshu05)
 
-- 💬 Ask me about **Flutter, Firebase, REST/GraphQL APIs, State Management**
+- 💬 Ask me about **Flutter, Firebase, REST/GraphQL APIs, State Management (BloC & Provider)**
 
 - 📫 How to reach me **a.jamwal132@gmail.com**
 
