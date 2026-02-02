@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [trackizer – Subscription & Bill Tracker App](https://github.com/akanshujamwal/trackizer)
 
-- 🌱 I’m currently learning **React & Advanced Flutter (Isolates, Streams, and Clean Architecture)**
+- 🌱 I’m currently learning **Advanced Flutter (Isolates, Streams, and Clean Architecture), iOS, & React**
 
 - 📝 I regularly write articles on [https://medium.com/@akanshu05](https://medium.com/@akanshu05)
 
