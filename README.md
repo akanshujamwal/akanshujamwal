@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Akanshu Jamwal</h1>
+<h1 align="center">Hi, I'm Akanshu Jamwal</h1>
 <h3 align="center">Building apps that don’t just work, they flow</h3>
 
 
