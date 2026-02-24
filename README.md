@@ -1,38 +1,12 @@
+# 💫 About Me:
+🔭 I’m currently working on<br>Building a trading ecosystem — a stock trading app (order ladder, market depth, option), plus side projects like subscription trackers and portfolio apps using Flutter + Firebase.<br><br>👯 I’m looking to collaborate on<br>Flutter apps, fintech products, open-source UI components, and startup ideas around trading, finance, or productivity tools.<br><br>🤝 I’m looking for help with<br>Advanced Flutter architecture, DSA, system design for scalable apps, and eventually AI/LLM integration into real products.<br><br>🌱 I’m currently learning<br>Deep Flutter internals, DSA (LeetCode grind 💪), mathematics for AI, and preparing for senior-level interviews — while also pursuing an MBA in Finance + Marketing, with a growing interest in Product Management and learning how to build user-centric, business-driven products.<br><br>💬 Ask me about<br>Flutter development, trading app UI/UX, stock market basics, technical analysis, Firebase integration, or how I balance tech + business.<br><br>⚡ Fun fact<br>I’m a Flutter developer who loves cooking, invests in stocks, wants to learn stand-up comedy, and is secretly preparing to mix AI + fintech + entrepreneurship 🚀
 
 
-<h1 align="center">Hi, I'm Akanshu</h1>
-<h3 align="center">Building apps that don’t just work, they flow</h3>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=akanshujamwal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akanshujamwal&label=Profile%20views&color=0e75b6&style=flat" alt="akanshujamwal" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [trackizer – Subscription & Bill Tracker App](https://github.com/akanshujamwal/trackizer)
-
-- 🌱 I’m currently learning **Advanced Flutter (Isolates, Streams, and Clean Architecture), iOS, & React**
-
-- 📝 I regularly write articles on [https://medium.com/@akanshu05](https://medium.com/@akanshu05)
-
-- 💬 Ask me about **Flutter, Firebase, REST/GraphQL APIs, State Management (BloC & Provider)**
-
-- 📫 How to reach me **a.jamwal132@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/11In_vZh5Sf9fQbQwTdQVBSVjKSdLJGZ2/view?usp=sharing](https://drive.google.com/file/d/11In_vZh5Sf9fQbQwTdQVBSVjKSdLJGZ2/view?usp=sharing)
-
-- ⚡ Fun fact **Coding is 10% writing and 90% googling… and I’ve mastered both.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akanshu-jamwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanshu-jamwal" height="30" width="40" /></a>
-<a href="https://medium.com/@akanshu05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akanshu05" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanshujamwal&show_icons=true&locale=en&layout=compact" alt="akanshujamwal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanshujamwal&show_icons=true&locale=en" alt="akanshujamwal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akanshujamwal&" alt="akanshujamwal" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=akanshujamwal&icon=0&color=0)](https://visitcount.itsvg.in)
