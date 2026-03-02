@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 ## I’m currently working on
 Building a trading ecosystem — a stock trading app (order ladder, market depth, option), plus side projects like subscription trackers and portfolio apps using Flutter + Firebase.
 ## I’m looking to collaborate on
