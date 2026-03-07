@@ -10,8 +10,8 @@
 
 <br>
 
-<!-- 🔗 SOCIAL BADGES — SLEEK PILL STYLE -->
-<a href="https://www.linkedin.com/in/akanshujamwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<!-- 🔗 SOCIAL BADGES — SLEEK PILL STYLE -->  
+<a href="https://www.linkedin.com/in/akanshu-jamwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://medium.com/@akanshu05"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>&nbsp;
 <a href="mailto:a.jamwal132@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/akanshujamwal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
