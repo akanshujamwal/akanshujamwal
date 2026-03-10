@@ -55,9 +55,9 @@ class FlutterEngineer {
 
   get focus() {
     return [
-      "⚡ Real-Time Trading Systems",
-      "📱 FinTech Mobile Experiences",
-      "🏗️ Scalable Flutter Architecture",
+      " Real-Time Trading Systems",
+      " FinTech Mobile Experiences",
+      " Scalable Flutter Architecture",
     ];
   }
 
