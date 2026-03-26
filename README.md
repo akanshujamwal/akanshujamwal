@@ -107,7 +107,7 @@ class FlutterEngineer {
 
 ---
 
-### <img src="https://img.shields.io/badge/2023-2025-7B2FFE?style=flat-square&labelColor=0d1117"/> &nbsp;  JM Financial (BlinkX) — Executive
+### <img src="https://img.shields.io/badge/2023-2026-7B2FFE?style=flat-square&labelColor=0d1117"/> &nbsp;  JM Financial (BlinkX) — Executive
 
 > **Full-stack FinTech suite · 2 years 8 months**
 
