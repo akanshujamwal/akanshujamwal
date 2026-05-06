@@ -5,7 +5,7 @@
 
 <!-- ⌨️ TYPING ANIMATION -->
 <a href="https://github.com/akanshujamwal">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=7B2FFE&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%F0%9F%8F%A6+Building+real-time+trading+systems+at+Trackk;%F0%9F%92%B9+Turning+market+data+into+buttery-smooth+UIs;%E2%9A%A1+98%25+crash-free+across+10%2B+shipped+apps;%F0%9F%94%A5+4%2B+years+of+Flutter+%26+FinTech+engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=7B2FFE&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Building+real-time+trading+systems+at+Trackk;Turning+market+data+into+buttery-smooth+UIs;98%25+crash-free+across+10%2B+shipped+apps;%F0%9F%94%A5+4%2B+years+of+Flutter+%26+FinTech+engineering" alt="Typing SVG" />
 </a>
 
 <br>
