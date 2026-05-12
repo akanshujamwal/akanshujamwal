@@ -48,8 +48,8 @@
 class FlutterEngineer {
   constructor() {
     this.name     = "Akanshu Jamwal";
-    this.role     = "Frontend Developer @ Trackk";
-    this.base     = "Mumbai, India 🇮🇳";
+    this.role     = "Frontend Developer @Trackk";
+    this.base     = "Mumbai, India";
     this.degree   = "B.E. Computer Science — MIET (2018–2022)";
   }
 
@@ -66,7 +66,7 @@ class FlutterEngineer {
   }
 
   get superpower() {
-    return "Making trading apps that never crash during market hours 📈";
+    return "Making trading apps that never crash during market hours";
   }
 
   get fuel() {
