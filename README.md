@@ -19,10 +19,10 @@
 <br><br>
 
 <!-- QUICK STATS ROW -->
-<img src="https://img.shields.io/badge/🚀_4%2B_Years-0d1117?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/📱_10%2B_Apps_Shipped-0d1117?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🛡️_98%25_Crash--Free-0d1117?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🏢_3_Companies-0d1117?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/_4%2B_Years-0d1117?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/_10%2B_Apps_Shipped-0d1117?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/_98%25_Crash--Free-0d1117?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/_3_Companies-0d1117?style=flat-square&labelColor=0d1117"/>
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=akanshujamwal&color=7B2FFE&style=flat-square&label=PROFILE+VIEWS" />
