@@ -366,7 +366,7 @@ class FlutterEngineer {
 <br>
 
 <a href="https://github.com/akanshujamwal">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2000&pause=500&color=00C9FF&center=true&vCenter=true&repeat=true&width=650&height=40&lines=Flutter+Architecture+%F0%9F%92%99;Trading+App+UI%2FUX+%F0%9F%93%B1;Stock+Markets+%26+Technical+Analysis+%F0%9F%93%88;Firebase+%26+Real-Time+Systems+%E2%9A%A1;WebSocket+Engineering+%F0%9F%94%8C;Bridging+Tech+%2B+Business+%F0%9F%A7%A0" alt="Ask me about" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2000&pause=500&color=00C9FF&center=true&vCenter=true&repeat=true&width=650&height=40&lines=Flutter+Architecture+%F0%9F%92%99;Trading+App+UI%2FUX+%F0%9F%93%B1;Stock+Markets+%26+Technical+Analysis+%F0%9F%93%88;Firebase+%26+Real-Time+Systems+%E2%9A%A1;WebSocket+Engineering+%F0%9F%94%8C;Bridging+Tech+%2B+Business+%F0%9F%A7%A0;Product+Management+%F0%9F%9A%80;System+Design+%26+Scalable+Architecture+%F0%9F%8F%97%EF%B8%8F;FinTech+Innovation+%26+Digital+Products+%F0%9F%92%B3" alt="Ask me about" />
 </a>
 
 </div>
