@@ -124,7 +124,7 @@ class FlutterEngineer {
 
 ---
 
-### <img src="https://img.shields.io/badge/2022-2023-00E676?style=flat-square&labelColor=0d1117"/> &nbsp; Nexgen IOT — Mobile Developer
+### <img src="https://img.shields.io/badge/2022-2023-00E676?style=flat-square&labelColor=0d1117"/> &nbsp; Nexgen IOT Solutions — Mobile Developer
 
 > **Diverse consumer apps · 1 year 3 months**
 
